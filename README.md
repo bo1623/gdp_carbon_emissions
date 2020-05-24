@@ -1,8 +1,8 @@
 # gdp_carbon_emissions
 
-This project was part of my final project in the "Applied Plotting, Charting and Data Representation in Python" course offered on Coursera by University of Michigan. I work in finance and with the trend that is ESG (Environmental Social Governance) pervading the industry, it was hard to resist working on something related to this topic. 
+This project was part of my final project in the "Applied Plotting, Charting and Data Representation in Python" course offered on Coursera by University of Michigan. I work in finance and with the trend that is ESG (Environmental Social Governance) pervading the industry, it was hard to resist working on something related to this topic. For this particular project, I chose to investigate the relationship between a country's economic activity and its level of carbon emissions. 
 
-As the objective of this course was to enhance my data visualization capabilities, there's not much of work done in terms of machine learning or regression analysis here (I'll get there someday). What I sought to achieve was relatively simple - create a visual that depicts the relationship between GDP and carbon emissions by source on a national level. 
+As the objective of this course was to enhance my data visualization capabilities, there's not much of work done in terms of machine learning or regression analysis here (I'll get there someday). What I sought to achieve was relatively simple - create a visual that depicted how GDP-emissions relationships differed across different countries. 
 
 Below is a snippet of my final result
 
