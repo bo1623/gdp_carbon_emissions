@@ -9,7 +9,7 @@ Below is a snippet of my final result
 
 ![](./plots.png)
 
-I've tried to make my code as abstract as possible, allowing the user to perform his/her analysis across a list of countries and different time periods. All the user would have to do is enter a list of countries of interest, and the start year and the Python notebook would take care of the rest and churn out a corresponding visual. 
+I've tried to make my code as abstract as possible, allowing the user to perform his/her analysis across a list of countries and different time periods. All the user would have to do is enter a list of countries of interest and the start year, the Python notebook would then take care of the rest and churn out a corresponding visual. 
 
 ```
 COUNTRIES = ['United States', 'Korea', 'Australia', 'China']
